@@ -1,1 +1,1 @@
-alert('javascript is awesome');
+alert('Javascript is awesome');
